@@ -3,7 +3,6 @@ version: 2
 seeds: 
   - name: person
     config: 
-      schema: person
       column_types: 
         businessentityid: integer
         title: varchar
