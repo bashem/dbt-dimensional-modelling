@@ -3,7 +3,6 @@ version: 2
 seeds: 
   - name: salesreason
     config: 
-      schema: sales
       column_types: 
         salesreasonid: integer
         name: varchar

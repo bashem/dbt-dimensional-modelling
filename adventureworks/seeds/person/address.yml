@@ -3,7 +3,6 @@ version: 2
 seeds: 
   - name: address
     config: 
-      schema: person
       column_types: 
         addressid: integer
         stateprovinceid: integer
